@@ -17,4 +17,8 @@ interface MethodName {
 }
 ```
 
+`@FunctionalInterface`をつけておくことで　SAM(Single Abstract Method)インターフェース
+であるかどうかがコンパイル時に検証される。
+
+
 
